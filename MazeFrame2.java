@@ -41,7 +41,7 @@ public class MazeFrame2 extends JFrame implements MazeInterface {
             }
         }
 
-        message = new JLabel("Keep pressing buttons");
+        message = new JLabel("Move to same color/shape");
         ct.add(message);
         MazePanels lowerPanel = new MazePanels("Shapes And Colors Game");
         JButton changer = new JButton("SWITCH GAME");
