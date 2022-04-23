@@ -1,2 +1,2 @@
 # Maze-Project
-A set of three maze puzzles displayed in a GUI where the user tries to go from the start to the goal
+A set of three maze puzzles displayed in a GUI where the user tries to go from the start to the goal. Once the program is started a menu pops us displaying random buttons from the three mazes and a game menu button allowing the user to select one of the three mazes. Each maze has a different set of rules and its own name. Each maze procvides a short description describing how it should be played. Moreover, the user can switch to a different maze from within any maze. Lastly, the first maze implements a maze solver that solves the maze on its own then displays the solution without a preset solution.
