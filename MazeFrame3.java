@@ -32,7 +32,7 @@ public class MazeFrame3 extends JFrame implements MazeInterface{
                 }
             }
 
-            message = new JLabel("Keep pressing buttons");
+            message = new JLabel("move to opposite color");
             ct.add(message);
             MazePanels lowerPanel = new MazePanels("ARROWS GAME");
             JButton changer = new JButton("SWITCH GAME");
