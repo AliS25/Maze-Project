@@ -41,7 +41,7 @@ public class MazeFrame1 extends JFrame implements MazeInterface{
             }
         }
 
-        message = new JLabel("Keep pressing buttons");
+        message = new JLabel("numbers display skipped spots");
         ct.add(message);
         MazePanels lowerPanel = new MazePanels("NUMBERS GAME");
 
